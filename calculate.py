@@ -1,5 +1,3 @@
-# time python3 calculateAverage.py
-# based https://github.com/ifnesi/1brc/blob/main/calculateAverage.py
 import os
 import multiprocessing as mp
 

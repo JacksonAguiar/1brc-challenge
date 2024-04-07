@@ -1,6 +1,6 @@
 # Processamento Paralelo de Arquivo com Estatísticas de Localização
 
-Este repositório contém um script em Python projetado para ler e criar um arquivo de dados (`measurements.txt`) com 500 mil registros, processá-lo em paralelo usando multiprocessamento e calcular estatísticas (mínimo, média e máximo) para cada localização encontrada nos dados gerados.
+Este repositório contém um script em Python projetado para ler e criar um arquivo de dados (`measurements.txt`) com 500 mil registros, processá-lo em paralelo usando multiprocessamento e calcular estatísticas (mínimo, média e máximo) para cada localização encontrada nos dados gerados. Código baseado na solução de [fizmat](https://github.com/ifnesi/1brc/blob/main/calculateAverage.py), adaptado para melhor exibição das métricas e gerar um menor volume de dados.
 
 ## Funcionalidades
 
