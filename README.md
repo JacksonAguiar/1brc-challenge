@@ -17,7 +17,7 @@ Este repositório contém um script em Python projetado para ler e criar um arqu
 ## Uso
 1. **Clonar o Repositório**
    ```bash
-   git clone https://github.com/ifnesi/1brc-challenge.git
+   git clone https://github.com/JacksonAguiar/1brc-challenge.git
    cd 1brc-challenge
 
 1. **Instalar as dependências**
