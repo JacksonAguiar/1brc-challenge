@@ -30,7 +30,7 @@ Este repositório contém um script em Python projetado para ler e criar um arqu
 
 3. **Calcular as métricas**
    ```bash
-   python3 generateFile.py
+   python3 calculate.py
 
 
 ## Detalhe das tecnicas utilizadas
